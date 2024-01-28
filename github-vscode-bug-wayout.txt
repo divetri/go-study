@@ -1,0 +1,10 @@
+git remote add origin [clone github repo]
+git commit -m "init"
+git push origin main
+gak bisa?
+coba cek branch
+git pull .
+balikin ke main
+git pull --rebase origin main
+git push origin main
+hore
